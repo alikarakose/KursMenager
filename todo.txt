@@ -1,0 +1,29 @@
+TODO 10.11.2022
+
+- Startbildschirm wer anfangen soll
+
+- Neues Spiel abfragen am Ende
+
+- Bessere Strategie für Computerspieler
+
+- Größeres Fenster und die Buttons sollten die Größe nicht ändern.
+
+- Spielmodus Human gegen Human
+
+- Spielmodus Computer gegen Computer
+
+- Namen irgendwie Nutzen
+
+- Namen ggf. abfragen
+
+- Bestenliste für Zeit oder längste Siegsequenz
+
+- Spiele Console und Gui zusammenführen
+
+- Hauptfenster mit Titel
+
+- Schlßdialog sollte nicht sofort Fenster verdecken
+
+- Bei gewonnnen die Gewinnreihe farblich oder fett hervorheben
+
+- Tastaturbedienung zulassen
